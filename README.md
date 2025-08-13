@@ -1,2 +1,2 @@
-# corpS
-проба пера микросервисов по мотивам bootCamp
+# CorporationXCopy
+проба пера микросервисов по мотивам bootCamp/CorporationX
