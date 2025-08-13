@@ -1,0 +1,27 @@
+[submodule "account_service"]
+	path = account_service
+	url = https://github.com/re1971reg/account_service
+[submodule "payment_service"]
+	path = payment_service
+	url = https://github.com/re1971reg/payment_service
+[submodule "project_service"]
+	path = project_service
+	url = https://github.com/re1971reg/project_service
+[submodule "post_service"]
+	path = post_service
+	url = https://github.com/re1971reg/post_service
+[submodule "notification_service"]
+	path = notification_service
+	url = https://github.com/re1971reg/notification_service
+[submodule "analytics_service"]
+	path = analytics_service
+	url = https://github.com/re1971reg/analytics_service
+[submodule "achievement_service"]
+	path = achievement_service
+	url = https://github.com/re1971reg/achievement_service
+[submodule "user_service"]
+	path = user_service
+	url = https://github.com/re1971reg/user_service
+[submodule "TryXSystem"]
+	path = TryXSystem
+	url = https://github.com/re1971reg/TryXSystem
