@@ -22,9 +22,6 @@
 [submodule "user_service"]
 	path = user_service
 	url = https://github.com/re1971reg/user_service
-[submodule "TryXSystem"]
-	path = TryXSystem
-	url = https://github.com/re1971reg/TryXSystem
 [submodule "infraTryX"]
 	path = infraTryX
 	url = https://github.com/re1971reg/infraTryX
